@@ -7,7 +7,7 @@ This is a simple command-line based Farm Management System developed in Python. 
 ## Features
 
 - **Admin Functions**: 
-  - Add new organisms (e.g., crops, animals).
+  - Add new organisms.
   - Update existing organisms with new details.
   
 - **Customer Functions**:
